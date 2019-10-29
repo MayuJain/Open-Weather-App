@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MidTermMayuri</string>
+    <string name="inst_value">Please select the city from the list below:</string>
+    <string name="forecast">Forecast</string>
+    <string name="temperature">Temperature</string>
+    <string name="temp_max">Temperature Max</string>
+    <string name="temp_min">Temperature Min</string>
+    <string name="desc">Description</string>
+    <string name="humid">Humidity</string>
+    <string name="wind">Wind Speed</string>
+</resources>
